@@ -2240,5 +2240,24 @@
         "github": "https://github.com/trungk18"
       }
     ]
+  },
+  "Angular Chile": {
+    "id": 92,
+    "name": "Angular Chile",
+    "position": {
+      "lng": -70.7702577,
+      "lat": -33.4727088
+    },
+    "city": "Santiago",
+    "twitter": "https://twitter.com/angularChile",
+    "web": "https://github.com/ngChile",
+    "description": "Comunidad de desarrolladores de Angular en Chile",
+    "organizers": [
+      {
+        "name": "Nicolás Avila",
+        "twitter": "https://twitter.com/nicoavila_a",
+        "github": "https://github.com/nicoavila"
+      }
+    ]
   }	  
 }
